@@ -1,0 +1,12 @@
+[
+  "test_retail_proj.py::test_app_config",
+  "test_retail_proj.py::test_check_status_count[CLOSED-7556]",
+  "test_retail_proj.py::test_check_status_count[COMPLETE-22900]",
+  "test_retail_proj.py::test_check_status_count[COMPLETE-2290]",
+  "test_retail_proj.py::test_check_status_count[PENDING_PAYMENT-15030]",
+  "test_retail_proj.py::test_count",
+  "test_retail_proj.py::test_count_customers",
+  "test_retail_proj.py::test_count_orders",
+  "test_retail_proj.py::test_filter_order_count",
+  "test_retail_proj.py::test_verify_result"
+]
